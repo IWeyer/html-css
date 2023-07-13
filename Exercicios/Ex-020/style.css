@@ -1,0 +1,58 @@
+@import "UTF-8";
+
+
+/*
+
+SELETORES PERSONALIZADOS
+
+# = id
+. = class
+: = pseudoclass
+:: = pseudoelement
+> = children
+
+*/
+
+body{
+
+    font: normal 16px arial sans-serif
+    
+}
+
+a{
+    color: red;
+    text-decoration:none;
+    font-weight: bold;
+}
+
+a:visited{
+    color: darkred;
+}
+
+a:hover{
+    text-decoration: underline;
+    color:black;
+    
+        
+}
+
+a:active{
+
+    color:green;
+
+}
+.especial::after{
+    content: '<';
+    color:rgb(0, 0, 0);   
+}
+
+.especial::before{
+    content: '>';
+    color:rgb(0, 0, 0);
+}
+
+.especial{
+    background-color:rgb(255, 86, 86);
+
+    font-weight: bold;
+}

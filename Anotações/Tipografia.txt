@@ -1,0 +1,35 @@
+TIPOGRAFIA
+
+A tipografia é a arte e o processo de criação na composição e impressão de um texto, física ou digitalmente. 
+Assim como no design gráfico em geral o objetivo principal da tipografia é dar ordem estrutural 
+e forma à comunicação escrita.
+
+Johannes Gensfleisch, conhecido como Johannes Gutenberg, nasceu provavelmente em 1397 e é considerado o criador 
+do processo de impressão com tipos móveis, a tipografia.
+
+As fontes das letras, podem transmitir emoções e ideias assim como as cores.
+
+
+
+TIPO: é a forma de cada uma das letras 
+
+Glifo: letra
+
+fonte serifada: usada para textos em papél.
+fonte sans-serif(sem serifa): usada para textos muito longos em telas.
+
+todas a letras minúsculas de uma fonte são baseadas no tamanho da letra "x".
+
+o conjunto de todos os glifos de uma determinada familia forma uma fonte.
+
+uma mesma fonte pode ter diferentes formas de representar o mesmo glifo, existe o light, normal
+seminegrito, negrito e extranegrito. toda fonte possui o normal e o negrito.
+
+CATEGORIAS DAS FONTES
+
+Fonte serifada
+fonte sans-serif(sem serifa)
+monoespaçada
+handwriting
+fontes comemorativas/fontes display
+

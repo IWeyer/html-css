@@ -1,0 +1,28 @@
+
+Decimal: 0 1 2 3 4 5 6 7 8 9
+Hexadeciamal: 0 1 2 3 4 5 6 7 8 9 A B C D E F
+
+Todas a cores são formadas por uma combinação entre vermelho, verde e azul
+por isso a sigla RGB (Red, Green, Blue).
+
+
+
+
+
+Cores terciarias = Cor primaria + cor secundaria
+
+cores complementares = Cores imediatamente opostas no circulo cromático, com o máximo de contraste entre si.
+
+cores análogas = Cores imediatamente ao lado de uma determinada cor.
+
+Cores análogas e uma complementar = paleta de cores construida através da união de 3 cores análogas entre si
+e uma cor complementar 
+
+Cores análogas relacionadas = consiste em contruir uma paleta de cores juntando duas cores análogas
+e depois pular uma e se juntar com a próxima.
+ 
+Cores intercaladas = consiste em construir uma paleta de cores pegando uma cor e pulando a próxima para se juntar
+com a cor seguinte.
+
+Monocromia = consiste em modificar a saturação e a luminosidade de uma unica cor varias vezes 
+de maneira crescente ou decrescente, gerando assim varios tons diferentes desta mesma cor, criando um efeito degradê.
