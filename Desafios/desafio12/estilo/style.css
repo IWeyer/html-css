@@ -18,8 +18,15 @@ header h1{
     font-size: 8vw;
     text-align: center;
     font-family: 'Passion One', cursive;
-    font-variant: small-caps; 
+    text-transform: uppercase;
     
+    
+  
+
+    
+}
+span{
+    font-size: 10vw;
 }
 header p{
     color: white;
@@ -53,10 +60,12 @@ div#background01{
     
     background-image: url(../imagens/background001.jpg);
     background-size: cover;
+    background-position: right center;
     background-attachment: fixed;
     padding-top: 8vh;
     padding-bottom: 8vh;
     padding-left: 5vw;
+    box-shadow: inset 6px 6px 12px rgba(0, 0, 0, 0.623);
    
 }
 
@@ -67,6 +76,7 @@ div#background02{
     padding-top: 8vh;
     padding-bottom: 8vh;
     padding-left: 5vw;
+    box-shadow: inset 6px 6px 12px 0px rgba(0, 0, 0, 0.623);
 }
 
 div > p{
@@ -77,6 +87,7 @@ div > p{
     background-color: rgba(0, 0, 0, 0.5);
     display: inline-block;
     line-height: 2em;
+    text-shadow: 1px 1px 0px black;
 
 }
 footer{
