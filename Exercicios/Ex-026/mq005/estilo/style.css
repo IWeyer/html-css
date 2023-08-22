@@ -73,7 +73,7 @@ header > menu > ul > li > a{
 
 main{
     background-color: white;
-    max-width: 600px;
+    width: 90vw;
     margin: auto;
     padding: 10px;
     border-radius: 10px;
@@ -92,4 +92,5 @@ main > article > h2{
     margin-bottom: 10px;
     
 }
+
 
